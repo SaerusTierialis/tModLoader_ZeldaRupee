@@ -1,5 +1,5 @@
 author = Saerus
-version = 1.0.4
+version = 1.0.5
 displayName = ZeldaRupee
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, *.xlsx, *.m, *.pptx, *.docx, *.tmp, *.zip, *.psd, *.sln
 homepage = https://forums.terraria.org/index.php?threads/experience-and-classes.53048/
