@@ -1,0 +1,18 @@
+Converts the sprites and sounds of coins to Legend of Zelda rupees.
+
+Shares a homepage with my main mod.
+
+v1.0.4
+-Updated for tModLoader v0.10.1.3
+
+v1.0.3
+-Updated for tModLoader v0.10.1
+
+v1.0.2
+-fixed crafting bug that was affecting other mods (introduced in v1.0.1)
+
+v1.0.1
+-compatible with tModLoader v0.10.0.1
+
+v0.2
+-Sprites and sounds are now correctly restored when disabling this mod without restarting the game
